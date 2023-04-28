@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\bin\Debug\net7.0\Mentoria_TI_ibbv.exe
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\bin\Debug\net7.0\Mentoria_TI_ibbv.deps.json
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\bin\Debug\net7.0\Mentoria_TI_ibbv.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\bin\Debug\net7.0\Mentoria_TI_ibbv.dll
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\bin\Debug\net7.0\Mentoria_TI_ibbv.pdb
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\Mentoria_TI_ibbv.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\Mentoria_TI_ibbv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\Mentoria_TI_ibbv.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\Mentoria_TI_ibbv.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\Mentoria_TI_ibbv.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\Mentoria_TI_ibbv.dll
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\refint\Mentoria_TI_ibbv.dll
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\Mentoria_TI_ibbv.pdb
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\Mentoria_TI_ibbv.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Documentos\Mentoria_TI_ibbv\obj\Debug\net7.0\ref\Mentoria_TI_ibbv.dll
