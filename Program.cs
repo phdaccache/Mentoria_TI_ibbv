@@ -1,8 +1,8 @@
-﻿namespace HelloWorld
+﻿namespace Mentoria_TI_ibbv
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Teste(string[] args)
         {
             Console.WriteLine("Hello, World!");
         }
